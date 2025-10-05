@@ -14,5 +14,5 @@ Refresher on SQL, a brief cleanup/analysis of a netflix dataset with votes based
 - A saved view you can use in Tableau/Power BI.
 
 ## How to run
-1) Import the CSV into Postgres (I did it with DBeaver - table - import data - select the csv `netflix.titles` and then mapped columns by name)  
+1) Import the CSV into Postgres (I did it with DBeaver - table - import data - select the csv into table `netflix.titles` and then mapped columns by name)  
 2) Run sql/netflix-movies-imdb.sql
