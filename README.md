@@ -2,7 +2,7 @@
 Refresher on SQL, a brief cleanup/analysis of a netflix dataset with votes based on IMDB user ratings
 
 
-# SQL Netflix + IMDb (Beginner → Intermediate)
+# SQL Netflix + IMDb data analysis
 
  
 **Stack.** PostgreSQL + DBeaver
