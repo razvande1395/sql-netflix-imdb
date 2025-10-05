@@ -5,7 +5,7 @@ Refresher on SQL, a brief cleanup/analysis of a netflix dataset with votes based
 # SQL Netflix + IMDb data analysis
 
  
-**Stack.** PostgreSQL + DBeaver
+**Stack** PostgreSQL + DBeaver
 
 ## What’s inside
 - Constrained table + light cleaning (normalize `type`, handle empty age certs, fill missing votes with 0)
